@@ -1,4 +1,5 @@
-
+print("Sndepp");
+print("CC");
 
 a = 5;
 b = 4;
