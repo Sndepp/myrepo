@@ -1,3 +1,7 @@
+print("CC");
+
+
+
 """
 x = str(3)
 y = int(6)
